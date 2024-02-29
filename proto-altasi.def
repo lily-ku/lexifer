@@ -1,0 +1,5 @@
+C = b:1 ḅ:1 c:1 d:1 f:1 g:1 ġ:1 j:1 ḥ:1 k:1 l:1 m:1 n:1 p:1 ṗ:1 r:1 s:1 ṡ:1 t:1 v:1 w:1 z:1 ż:1
+V = a:1 e:1 ẽ:1 ǒ:1 ǒǒ:1 ã:1 ãã:1 i:1 o:1 õ:1 u:1 ũ:1 y:1 ŕ:1 ḿ:1 ń:1 ś:1 aa:1 ee:1 ẽẽ:1 ii:1 oo:1 õõ:1 uu:1 ũũ:1 yy:1
+L = l r j
+
+words: CVC CVLC CLVC CLVCV VC VLC VLCV VLCVC CV CVCV CVCVC CVL CVCVL CVCVCV CVCVCVC CVCVCVL CVCLVCV

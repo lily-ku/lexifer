@@ -1,0 +1,5 @@
+C = m:1 n:1 p:1 b:1 t:1 d:1 ty:1 dy:1 k:1 g:1 r:1 y:1 ly:1 l:1 w:1
+V = i:1 u:1 e:1 o:1 a:1
+F = m:1 n:1 p:1 t:1 ty:1 k:1 r:1 y:1 ly:1 w:1
+
+words: CVF VF V CVCVF VCV VCVF CVCVCV CVCVCVF

@@ -1,0 +1,4 @@
+C = p:1 b:1 t:1 d:1 k:1 g:1 k':1 kw:1 gw:1 k'w:1 ʔ:1 f:1 s:1 ɬ:1 č:1 ħ:1 ʕ:1 h:1 m:1 n:1 ñ:1 ŋ:1 ŋw:1 w:1 r:1 l:1
+V = a i u aa ii uu
+
+words: CV CVC CVCVC VC VCV VCVC VCVCV

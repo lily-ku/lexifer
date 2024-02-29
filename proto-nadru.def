@@ -1,0 +1,9 @@
+C = p:1 t:1 k:1 b:1 d:1 g:1 pʰ:1 tʰ:1 kʰ:1 bʰ:1 dʰ:1 gʰ:1 kʷ:1 gʷ:1 n:1 m:1 r:1 l:1 ʔ:1 ʔʷ:1 ḥ:1 s:1 z:1 h:1 y:1 w:1
+M = rs:1 st:1 kt:1 tr:1 rt:1 rd:1 dr:1 rtʰ:1 rdʰ:1 rkʰ:1 rgʰ:1 nt:1 nd:1 ntʰ:1 ndʰ:1 n:1 r:1 t:1 d:1 m:1
+I = ṛ:1 ṣ:1 kʷ:1 gʷ:1
+F = s:1 r:1 t:1 l:1 m:1 h:1 ḥ:1 k:1 p:1
+V = ǝ:1 a:1 e:1 i:1 o:1 u:1 ā:1 ē:1 ī:1 ō:1 ū:1
+
+words: CVMVF CVMV CVF CV VMVF VF V CICV ICV ICVMV ICVF
+
+filter: gʷw > gw; kʷw > kw; sṣ > sṛ
