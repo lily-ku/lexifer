@@ -1,0 +1,7 @@
+C = m k p n s t b l g ĝ d š r ḫ z ř
+F = m n s b l g ĝ d š r ḫ z ř
+V = i a u e
+
+words: V CV CVF CVCVF CVFCVF CVFCVFCVF CVFCV CVCVCV VF VCVF VFCVF
+
+filter: lp > pp; bk > kk; mp > mm
