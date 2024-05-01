@@ -1,0 +1,11 @@
+I = m k y p w n s š t b l h g d r z ẖ č j
+M = m k y p w n ʼ s š t b l h g d r z ẖ č j
+F = m n s š t b l d r č k
+L = r ʼ l y š s n ẖ h
+V = i a u e ā ē ū ī
+
+random-rate: 75
+
+words: I?VF I?VMV I?VLMV I?VMLV I?VMVF I?VMLVF I?VLMVF I?VMVFIV I?VLMVFIV I?VMVFIVF I?VLMVFIVF IV
+
+filter: šs > šh; čs > čh; tš > č; nb > mb; np > mp; ts > tt; ds > dd
