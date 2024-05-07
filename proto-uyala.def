@@ -1,0 +1,8 @@
+C = m k p n s t b y w l g d ʼ š r kʷ gʷ θ bʷ pʷ ʔʷ rʷ
+L = k s t ʼ y w θ r n m
+V = i a u ə ī ā ū
+
+random-rate: 50
+
+words: C?VL?CVC? C?VL?CVL?CV
+filter: kg > kk; td > tt
